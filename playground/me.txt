@@ -1,7 +1,0 @@
-This is the content of me.txt 
-{{#user}}
-Name: Sukanya Ghosh
-Skills: HTML, CSS, JS, Next.js
-Email: test@gmail.com
-{{/user}}
-
